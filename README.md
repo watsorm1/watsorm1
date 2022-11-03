@@ -1,5 +1,5 @@
 - 👋 @watsorm1 (Ryan)
-- 👀 -- robotics | state estimation 
+- 👀 -- navigation | state estimation | robotics 
 - 📫 -- Ryan.Watson@jhuapl.edu
 
 <!---
